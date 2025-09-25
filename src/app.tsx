@@ -16,8 +16,8 @@ function App() {
           <Navbar />
           <main className='flex h-full flex-col items-center justify-center'>
             <GithubCorner
-              title='Get started on GitHub'
-              url='https://github.com/doinel1a/vite-react-ts-shadcn-ui'
+              title='Know more about the author on GitHub'
+              url='https://github.com/MauricioMilano/'
             />
             <Counter />
           </main>
